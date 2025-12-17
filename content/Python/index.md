@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Python
 ---
 
 This is a blank Quartz installation.
